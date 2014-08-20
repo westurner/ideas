@@ -1,3 +1,3 @@
 ideas
 =====
-see: https://github.com/westurner/ideas/wiki
+see: https://github.com/westurner/wiki/wiki/ideas
